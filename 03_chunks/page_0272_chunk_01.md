@@ -1,0 +1,8 @@
+# page_0272_chunk_01
+
+- source: 鏉愭枡绉戝鍩虹  淇鐗坃娓呭崕鏁欐潗_娓呮櫚鐗?pdf
+- page: 272
+- chunk_index: 1
+- char_count: 1057
+
+﻿第 4 章 式 （ 4 一 87 ） ).． 攀 移 力 晶 体 中 的 缺 陷 249 B 位 错 应 在 包 含 AB 和 ， 轴 的 ABDF 面 内 攀 移 ， 故 fc 应 在 此 面 内 并 垂 直 于 AB ， 如 图 4 一 40 所 示 。我 们 假 定 它 的 正 向 向 上 （ 平 行 于 ， %)0 由 于 ABDF 面 上 的 应 力 没 有 直 接 给 出 ， 故 不 便 通 过 物 理 论 证 直 接 代 入 公 式 （ 4 一 87 ） 。为 了 求 ， 需 将 位 错 线 AB 分 解 为 长 度 为 cosa 的 右 旋 螺 型 位 错 0 和 长 度 为 sina 的 负 刃 型 位 错 OB ， 分 别 求 这 两 条 位 错 线 沿 ， 轴 运 动 时 所 受 的 力 ， 然 后 将 两 个 力 叠 加 。螺 型 位 错 分 量 AO 沿 ， 轴 运 动 仍 为 滑 移 ， 滑 移 面 为 AOEF 。设 作 用 在 AO 上 的 滑 穆 力 为 F'y, 那 么 按 I × 规 则 ， AOEF 前 面 的 晶 体 将 沿 b 的 方 向 滑 移 ， 故 “ 做 正 功 ， 所 以 F, 一 rzbcosa 。刃 型 位 错 分 量 沿 ， 轴 的 运 动 是 负 攀 移 ， 即 位 于 滑 移 面 （ XOZ 面 ） 下 部 的 附 加 半 原 子 面 将 扩 大 。设 其 受 的 攀 穆 力 为 ， 则 按 × 规 则 ， 攀 移 面 OBCE 边 的 晶 体 将 沿 b 的 方 向 运 动 ， 故 做 正 功 ， 所 以 r,=axbsinao 因 此 ， AB 位 错 受 的 攀 移 力 为 f, = F',+ ， 一 b(rucosa+axsim) （ 2 ） 代 入 公 式 法 由 图 40 知 ， b=Cb 0 0 ] 一 Ccosa 0 代 入 Peach-KoehIer 公 式 ， 得 到 bar —sina] ， 有 0 0 丿 b r cosa 0 k Slna 所 以 即 故 滑 移 力 为 攀 移 力 为 一 —(ryxbsina)i+b(axsina+r—cosa)j—(ryxbcosa)k —r,xbsina ， f,=b(rucosa+axsina) ， 一 一 ” bco fc=f,=b(racosa+axsina) 这 个 结 果 与 用 物 理 论 证 法 得 到 的 鲒 果 完 全 相 同 。

@@ -1,0 +1,562 @@
+﻿[
+    {
+        "page":  501,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0501.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0501.txt",
+        "text_length":  1814,
+        "line_count":  41
+    },
+    {
+        "page":  502,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0502.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0502.txt",
+        "text_length":  1498,
+        "line_count":  46
+    },
+    {
+        "page":  503,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0503.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0503.txt",
+        "text_length":  1565,
+        "line_count":  46
+    },
+    {
+        "page":  504,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0504.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0504.txt",
+        "text_length":  1082,
+        "line_count":  41
+    },
+    {
+        "page":  505,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0505.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0505.txt",
+        "text_length":  1611,
+        "line_count":  48
+    },
+    {
+        "page":  506,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0506.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0506.txt",
+        "text_length":  1286,
+        "line_count":  50
+    },
+    {
+        "page":  507,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0507.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0507.txt",
+        "text_length":  2182,
+        "line_count":  57
+    },
+    {
+        "page":  508,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0508.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0508.txt",
+        "text_length":  1483,
+        "line_count":  40
+    },
+    {
+        "page":  509,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0509.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0509.txt",
+        "text_length":  2013,
+        "line_count":  34
+    },
+    {
+        "page":  510,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0510.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0510.txt",
+        "text_length":  1948,
+        "line_count":  117
+    },
+    {
+        "page":  511,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0511.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0511.txt",
+        "text_length":  1562,
+        "line_count":  39
+    },
+    {
+        "page":  512,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0512.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0512.txt",
+        "text_length":  1093,
+        "line_count":  47
+    },
+    {
+        "page":  513,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0513.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0513.txt",
+        "text_length":  1824,
+        "line_count":  41
+    },
+    {
+        "page":  514,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0514.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0514.txt",
+        "text_length":  985,
+        "line_count":  48
+    },
+    {
+        "page":  515,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0515.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0515.txt",
+        "text_length":  1237,
+        "line_count":  35
+    },
+    {
+        "page":  516,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0516.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0516.txt",
+        "text_length":  1125,
+        "line_count":  21
+    },
+    {
+        "page":  517,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0517.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0517.txt",
+        "text_length":  1663,
+        "line_count":  35
+    },
+    {
+        "page":  518,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0518.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0518.txt",
+        "text_length":  949,
+        "line_count":  28
+    },
+    {
+        "page":  519,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0519.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0519.txt",
+        "text_length":  1549,
+        "line_count":  52
+    },
+    {
+        "page":  520,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0520.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0520.txt",
+        "text_length":  1828,
+        "line_count":  48
+    },
+    {
+        "page":  521,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0521.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0521.txt",
+        "text_length":  1192,
+        "line_count":  24
+    },
+    {
+        "page":  522,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0522.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0522.txt",
+        "text_length":  1556,
+        "line_count":  39
+    },
+    {
+        "page":  523,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0523.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0523.txt",
+        "text_length":  944,
+        "line_count":  40
+    },
+    {
+        "page":  524,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0524.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0524.txt",
+        "text_length":  1379,
+        "line_count":  54
+    },
+    {
+        "page":  525,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0525.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0525.txt",
+        "text_length":  1405,
+        "line_count":  39
+    },
+    {
+        "page":  526,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0526.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0526.txt",
+        "text_length":  1270,
+        "line_count":  50
+    },
+    {
+        "page":  527,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0527.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0527.txt",
+        "text_length":  1770,
+        "line_count":  39
+    },
+    {
+        "page":  528,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0528.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0528.txt",
+        "text_length":  1490,
+        "line_count":  32
+    },
+    {
+        "page":  529,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0529.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0529.txt",
+        "text_length":  1390,
+        "line_count":  48
+    },
+    {
+        "page":  530,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0530.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0530.txt",
+        "text_length":  645,
+        "line_count":  16
+    },
+    {
+        "page":  531,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0531.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0531.txt",
+        "text_length":  2491,
+        "line_count":  39
+    },
+    {
+        "page":  532,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0532.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0532.txt",
+        "text_length":  2262,
+        "line_count":  57
+    },
+    {
+        "page":  533,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0533.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0533.txt",
+        "text_length":  1454,
+        "line_count":  39
+    },
+    {
+        "page":  534,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0534.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0534.txt",
+        "text_length":  1134,
+        "line_count":  31
+    },
+    {
+        "page":  535,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0535.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0535.txt",
+        "text_length":  2054,
+        "line_count":  34
+    },
+    {
+        "page":  536,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0536.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0536.txt",
+        "text_length":  1559,
+        "line_count":  32
+    },
+    {
+        "page":  537,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0537.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0537.txt",
+        "text_length":  2217,
+        "line_count":  38
+    },
+    {
+        "page":  538,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0538.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0538.txt",
+        "text_length":  682,
+        "line_count":  15
+    },
+    {
+        "page":  539,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0539.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0539.txt",
+        "text_length":  1990,
+        "line_count":  40
+    },
+    {
+        "page":  540,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0540.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0540.txt",
+        "text_length":  2317,
+        "line_count":  52
+    },
+    {
+        "page":  541,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0541.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0541.txt",
+        "text_length":  1446,
+        "line_count":  43
+    },
+    {
+        "page":  542,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0542.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0542.txt",
+        "text_length":  1845,
+        "line_count":  43
+    },
+    {
+        "page":  543,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0543.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0543.txt",
+        "text_length":  1386,
+        "line_count":  23
+    },
+    {
+        "page":  544,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0544.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0544.txt",
+        "text_length":  619,
+        "line_count":  22
+    },
+    {
+        "page":  545,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0545.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0545.txt",
+        "text_length":  1401,
+        "line_count":  27
+    },
+    {
+        "page":  546,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0546.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0546.txt",
+        "text_length":  1892,
+        "line_count":  35
+    },
+    {
+        "page":  547,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0547.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0547.txt",
+        "text_length":  1158,
+        "line_count":  42
+    },
+    {
+        "page":  548,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0548.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0548.txt",
+        "text_length":  793,
+        "line_count":  40
+    },
+    {
+        "page":  549,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0549.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0549.txt",
+        "text_length":  1117,
+        "line_count":  41
+    },
+    {
+        "page":  550,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0550.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0550.txt",
+        "text_length":  1548,
+        "line_count":  95
+    },
+    {
+        "page":  551,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0551.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0551.txt",
+        "text_length":  1302,
+        "line_count":  69
+    },
+    {
+        "page":  552,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0552.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0552.txt",
+        "text_length":  1490,
+        "line_count":  49
+    },
+    {
+        "page":  553,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0553.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0553.txt",
+        "text_length":  1689,
+        "line_count":  43
+    },
+    {
+        "page":  554,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0554.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0554.txt",
+        "text_length":  1505,
+        "line_count":  57
+    },
+    {
+        "page":  555,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0555.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0555.txt",
+        "text_length":  1702,
+        "line_count":  34
+    },
+    {
+        "page":  556,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0556.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0556.txt",
+        "text_length":  1105,
+        "line_count":  43
+    },
+    {
+        "page":  557,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0557.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0557.txt",
+        "text_length":  1106,
+        "line_count":  43
+    },
+    {
+        "page":  558,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0558.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0558.txt",
+        "text_length":  1733,
+        "line_count":  33
+    },
+    {
+        "page":  559,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0559.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0559.txt",
+        "text_length":  1743,
+        "line_count":  41
+    },
+    {
+        "page":  560,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0560.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0560.txt",
+        "text_length":  1342,
+        "line_count":  38
+    },
+    {
+        "page":  561,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0561.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0561.txt",
+        "text_length":  1651,
+        "line_count":  54
+    },
+    {
+        "page":  562,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0562.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0562.txt",
+        "text_length":  2576,
+        "line_count":  40
+    },
+    {
+        "page":  563,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0563.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0563.txt",
+        "text_length":  2481,
+        "line_count":  38
+    },
+    {
+        "page":  564,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0564.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0564.txt",
+        "text_length":  1739,
+        "line_count":  47
+    },
+    {
+        "page":  565,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0565.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0565.txt",
+        "text_length":  2622,
+        "line_count":  45
+    },
+    {
+        "page":  566,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0566.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0566.txt",
+        "text_length":  1785,
+        "line_count":  36
+    },
+    {
+        "page":  567,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0567.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0567.txt",
+        "text_length":  1257,
+        "line_count":  34
+    },
+    {
+        "page":  568,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0568.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0568.txt",
+        "text_length":  1629,
+        "line_count":  28
+    },
+    {
+        "page":  569,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0569.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0569.txt",
+        "text_length":  1353,
+        "line_count":  33
+    },
+    {
+        "page":  570,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0570.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0570.txt",
+        "text_length":  1624,
+        "line_count":  104
+    },
+    {
+        "page":  571,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0571.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0571.txt",
+        "text_length":  2059,
+        "line_count":  38
+    },
+    {
+        "page":  572,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0572.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0572.txt",
+        "text_length":  2099,
+        "line_count":  34
+    },
+    {
+        "page":  573,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0573.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0573.txt",
+        "text_length":  2435,
+        "line_count":  52
+    },
+    {
+        "page":  574,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0574.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0574.txt",
+        "text_length":  2500,
+        "line_count":  49
+    },
+    {
+        "page":  575,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0575.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0575.txt",
+        "text_length":  1588,
+        "line_count":  32
+    },
+    {
+        "page":  576,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0576.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0576.txt",
+        "text_length":  1114,
+        "line_count":  43
+    },
+    {
+        "page":  577,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0577.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0577.txt",
+        "text_length":  1163,
+        "line_count":  35
+    },
+    {
+        "page":  578,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0578.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0578.txt",
+        "text_length":  937,
+        "line_count":  21
+    },
+    {
+        "page":  579,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0579.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0579.txt",
+        "text_length":  1915,
+        "line_count":  57
+    },
+    {
+        "page":  580,
+        "image":  "F:\\材料科学基础_知识库\\01_renders\\page_0580.png",
+        "text":  "F:\\材料科学基础_知识库\\02_ocr_pages\\page_0580.txt",
+        "text_length":  515,
+        "line_count":  36
+    }
+]

@@ -1,0 +1,8 @@
+# page_0075_chunk_01
+
+- source: 鏉愭枡绉戝鍩虹  淇鐗坃娓呭崕鏁欐潗_娓呮櫚鐗?pdf
+- page: 75
+- chunk_index: 1
+- char_count: 423
+
+﻿52 材 料 科 学 基 础 用 的 。 要 强 调 指 出 的 是 ， 表 2 · 1 中 列 举 的 都 是 自 由 原 子 的 基 态 结 构 ， 即 既 没 有 外 场 作 用 ， 原 子 也 没 有 被 激 发 ， 因 而 各 电 子 都 处 于 尽 可 能 低 的 能 级 （ 这 种 状 态 就 称 为 基 态 或 正 常 态 ） 。 元 素 及 原 子 序 数 2 He 10 Ne 1 ] Na 13 AI 14 Si 15 P 17 CI 18 Ar 19 K 20 Ca 21 22 Ti 23 V 24 Cr 25 Mn 27 Co 28 Ni 29 Cu 30 Zn 31 Ga 32 Ge 33 As 34 Se 35 Br 36 Kr 表 2 ． 1 元 的 原 子 结 构 主 量 子 数 及 角 量 子 数 NNROOOOOO 0 到 OOOOO 到 到 日 OOOO 的 到 的 OOOO 地 到 到 到 囗

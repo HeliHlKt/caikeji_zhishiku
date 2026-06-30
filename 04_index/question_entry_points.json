@@ -1,0 +1,45 @@
+[
+  {
+    "entry": "完整解释一个机制",
+    "best_pattern": "机制解释题",
+    "recommended_routes": [
+      "强化机制总线",
+      "热力学到相图到相变",
+      "缺陷到界面到扩散"
+    ]
+  },
+  {
+    "entry": "比较两种结构、两种相变或两种机制",
+    "best_pattern": "比较题",
+    "recommended_routes": [
+      "强化机制总线",
+      "结构基础到性能表现",
+      "热力学到相图到相变"
+    ]
+  },
+  {
+    "entry": "分析相图、TTT/CCT或工艺曲线",
+    "best_pattern": "相图/曲线分析题",
+    "recommended_routes": [
+      "热力学到相图到相变",
+      "凝固到固态组织演化"
+    ]
+  },
+  {
+    "entry": "解释工艺如何改变组织和性能",
+    "best_pattern": "工艺-组织-性能题",
+    "recommended_routes": [
+      "凝固到固态组织演化",
+      "强化机制总线"
+    ]
+  },
+  {
+    "entry": "整理复习提纲或考试答案框架",
+    "best_pattern": "比较题",
+    "recommended_routes": [
+      "结构基础到性能表现",
+      "强化机制总线",
+      "热力学到相图到相变"
+    ]
+  }
+]
