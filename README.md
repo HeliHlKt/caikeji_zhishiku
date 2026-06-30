@@ -1,46 +1,75 @@
-# Materials Science Basic Knowledge Base
+# 材料科学基础知识库
 
-This repository is a private-share version of a complete local knowledge base built from a textbook-style PDF.
+这是一个基于教材 PDF 构建的私有知识库仓库，适合个人学习、小范围共享和后续问答检索使用。
 
-It is intended for:
+本仓库当前对应的资料主题为：
 
-- private GitHub repositories
-- small-group internal sharing
-- direct retrieval and study use
-- follow-up question answering based on the indexed content
+- 《材料科学基础 修订版》
 
-It is not intended as a public redistribution template unless you have the right to share the source content.
+## 这个仓库能做什么
 
-## What Is Included
+- 按章节、主题、页码检索教材内容
+- 支持基于 OCR 文本和切片内容进行精准定位
+- 支持围绕教材内容进行问答整理
+- 便于在私有仓库中共享给学习小组或团队成员
 
-- OCR page text in `02_ocr_pages/`
-- retrieval chunks in `03_chunks/`
-- page and chunk indexes in `04_index/`
-- concept cards in `05_cards/`
-- topic guides in `06_topics/`
-- QA-oriented answer scaffolding in `07_qa/`
-- ready-to-use summary outputs in `08_outputs/`
-- rebuild and maintenance scripts in `scripts/`
+## 适用场景
 
-## What Is Not Included
+- 复习教材
+- 查找某个概念、机制或章节位置
+- 支持后续用 AI 做基于教材的问答
+- 为笔记整理、课程答疑、考试准备提供材料基础
 
-- rendered page images in `01_renders/`
+## 仓库内容说明
 
-This keeps the repository smaller while preserving the actual retrieval value.
+- `00_source/`
+  存放原始 PDF 文件
 
-## Source PDF
+- `02_ocr_pages/`
+  按页保存的 OCR 文本，适合回溯原始页面内容
 
-The original source PDF is included in `00_source/original.pdf` for private use inside this private repository version.
+- `03_chunks/`
+  按主题或片段切分后的检索块，适合做知识检索和问答引用
 
-## Recommended Usage
+- `04_index/`
+  各类索引文件，包括章节映射、页码映射、切片索引等
 
-1. Start with `08_outputs/ready_for_qa.md`
-2. Use `04_index/chapter_map.json` to locate chapter scope
-3. Use `04_index/topic_routes.json` for topic routing
-4. Use `03_chunks/` and `02_ocr_pages/` for grounded lookup
-5. Use `07_qa/answer_playbook.md` to structure final answers
+- `05_cards/`
+  概念卡片与知识点整理
 
-## Key Entry Files
+- `06_topics/`
+  按主题组织的导读和章节说明
+
+- `07_qa/`
+  面向问答的辅助材料和回答组织框架
+
+- `08_outputs/`
+  已整理好的摘要、汇总和可直接使用的输出结果
+
+- `scripts/`
+  用于重建知识库的脚本
+
+- `logs/`
+  处理过程中的日志文件
+
+## 未包含内容
+
+- `01_renders/`
+  页面渲染图未放入该私有分享版仓库，以减少体积
+
+这不会影响主要检索能力，因为核心的 OCR 文本、索引、知识切片和问答层都已保留。
+
+## 建议使用方式
+
+如果你是第一次使用，建议按这个顺序开始：
+
+1. 先看 `08_outputs/ready_for_qa.md`
+2. 再看 `04_index/chapter_map.json`，了解章节结构
+3. 如需按主题查找，使用 `04_index/topic_routes.json`
+4. 如需精确回溯内容，查看 `03_chunks/` 和 `02_ocr_pages/`
+5. 如需组织答案，参考 `07_qa/answer_playbook.md`
+
+## 常用入口文件
 
 - `04_index/chapter_map.json`
 - `04_index/page_map.json`
@@ -48,21 +77,55 @@ The original source PDF is included in `00_source/original.pdf` for private use 
 - `06_topics/chapter_guides.md`
 - `07_qa/answer_playbook.md`
 - `08_outputs/chapter_summary_pack.md`
+- `08_outputs/ready_for_qa.md`
 
-## Suggested Share Rules
+## 推荐提问方式
 
-- Keep the repository private
-- Share only with trusted users in your study group or team
-- Do not mirror it publicly unless you have explicit permission for the source material
-- If you need to rebuild or extend the KB, use the scripts under `scripts/`
+如果你是基于这个知识库继续提问，建议明确说明检索范围，例如：
 
-## Rebuild Notes
+- 请使用材料科学基础知识库，解释位错强化的基本机制
+- 请使用材料科学基础知识库，找出“变质处理”出现在哪一章
+- 请使用材料科学基础知识库，结合教材内容说明扩散的影响因素
 
-The included scripts support:
+在当前协作流程里，也可以使用简写口令：
 
-- PDF page rendering
-- Windows OCR extraction
-- chunk/index generation
-- enhanced QA-layer generation
+- `使用材科基知识库`
 
-See `KNOWLEDGE_BASE_OVERVIEW.md` and `RESUME_INSTRUCTIONS.md` for workflow details.
+## 使用建议
+
+- 回答问题时，优先结合 `04_index/`、`03_chunks/` 和 `02_ocr_pages/`
+- 如果只需要快速概览，先查 `08_outputs/`
+- 如果要做较完整回答，建议同时结合章节结构、OCR 页面和问答框架
+
+## 隐私与分享说明
+
+本仓库是私有分享版，适合：
+
+- 个人使用
+- 学习小组内部共享
+- 小范围协作检索和问答
+
+不建议：
+
+- 公开传播
+- 镜像到公开仓库
+- 在无授权情况下二次分发原始资料
+
+## 重建说明
+
+仓库中的脚本支持以下流程：
+
+- PDF 页面处理
+- OCR 提取
+- 文本切片生成
+- 索引构建
+- 问答增强层生成
+
+如需继续扩展或重建，可结合以下文件继续操作：
+
+- `KNOWLEDGE_BASE_OVERVIEW.md`
+- `RESUME_INSTRUCTIONS.md`
+
+## 一句话总结
+
+这个仓库不是单纯的 PDF 备份，而是一套可检索、可定位、可问答、可共享的《材料科学基础》私有知识库。
