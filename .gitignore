@@ -5,3 +5,4 @@ tmp/
 tmp_kb/
 .DS_Store
 Thumbs.db
+gcm-diagnose.log
